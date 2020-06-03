@@ -1,0 +1,110 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+.mapa {
+    margin: 0;
+    width: 100%;
+    height: 85vh;
+   
+}
+#container:fullscreen {
+    background-color: rgba(255,255,255,0);
+}
+#container:-webkit-full-screen {
+    background-color: rgba(255,255,255,0);
+}
+#container:-moz-full-screen {
+    background-color: rgba(255,255,255,0);
+}
+
+#container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+ul,li{
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 1vh;
+}
+
+
+#menu{
+    padding: 1.5625vh;
+    display: flex;
+    flex-direction: column;
+    height: 15vh;
+}
+
+.button {
+    width: 90%;
+    transition: all .3s ease-in-out;
+	background-color:#ffffff;
+	border-radius:1.458333333333vh;
+	border:0.052083333333333336vh solid black;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family:Arial;
+	font-size:0.8854166666666666vh;
+	padding:0.6770833333333334vh;
+	text-decoration:none;
+	text-shadow:0px 0.052083333333333336vh 0px #2f6627;
+}
+
+#qr_container{
+    
+    width: 20.3vw;
+    height: 20.3vw;
+    box-shadow: 0 0 10px black;
+    z-index: 9999999999999;
+    position: absolute;
+    bottom: 16.5vh;
+    right: 3vw;
+    background-color: white;
+    padding: 1vh;
+    border-radius:1.4583333333333333vh;
+}
+
+
+#qrcode{
+    width: 20.3vw;
+    height: 20.3vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#go{
+    height: 100%;
+    transition: all .3s ease-in-out;
+    transform: scale(0.95);
+    background-color:white;
+	border-radius:1.4583333333333333vh;
+	border:0.052083333333333336vh solid gray;
+	display:inline-block;
+	cursor:pointer;
+	color:gray;
+	font-family: 'Calibri';
+	font-size:2.8645833333333335vh;
+	padding:0.6770833333333334vh;
+	text-decoration:none;
+	text-shadow:0px 0.052083333333333336vh 0px #2f6627;
+}
+
+
+

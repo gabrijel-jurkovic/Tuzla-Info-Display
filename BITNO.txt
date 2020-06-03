@@ -1,0 +1,1 @@
+https://www.google.com/maps/dir/?api=1&origin=44.539397,18.67493&destination=44.539644,18.681992&travelmode=walking

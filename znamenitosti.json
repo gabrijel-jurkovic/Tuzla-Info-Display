@@ -1,0 +1,90 @@
+{
+    "znamenitosti":[
+
+    {
+        "ime": "Trg slobode",
+        "adresa": "Stari grad, Tuzla 75000, Bosna i Hercegovina",
+        "lng": 44.539397,
+        "ltd": 18.674934,
+        "info": "Trg Slobode je najveći trg u Bosni i Hercegovini, na čijem se prostoru nalazi rekonstruisana zgrada Baroka iz austrougarskog perioda. Na Trgu je otkriveno arheološko nalazište sa vrlo značajnim ostacima arheološkog materijala. Prostor je uređen za druženje i različite manifestacije, a krasi ga središnja fontana sa pratećim sadržajem.Centralno mjesto na Trgu zauzima velika fontana čije spoljašnje zidove krase ornamenti stećaka, no to na Trgu slobode nisu jedini simboli srednjovjekovne Bosne."
+    },
+    {
+        "ime": "Panonska jezera",
+        "adresa": "Tuzla 75000, Bosna i Hercegovina",
+        "lng": 44.539644,
+        "ltd": 18.681992,
+        "info": "Tuzla je jedini grad u Evropi koji ima slana jezera i jedini grad na svijetu čija se slana jezera, kupalište i plaža nalaze u centru grada.Kada se, prije nekoliko miliona godina, Panonsko more povlačilo sa velikog dijela evropskog tla, ispod Tuzle je ostavilo milione tona naslaga kamene soli i slane vode. Zahvaljujući ovom prirodnom bogatstvu, a uz podršku domaćih stručnjaka, slana voda je izvučena na površinu i 2003. godine pretvorena u Panonsko jezero I, a 2008. godine izgrađeno je i Panonski jezero II."
+    },
+    {
+        "ime": "Kapija",
+        "adresa": "75000, Zlatarska, Tuzla, Bosna i Hercegovina",
+        "lng": 44.538607,
+        "ltd": 18.676807,
+        "info": "Masakr na Kapiji poznat i kao Zločin nad tuzlanskom mladošću je jedan od najtežih zločina počinjenih nad civilima Tuzle koji se dogodio 25. svibnja 1995. godine. Srpske snage su toga dana u 20:55 sa Ozrena ispalile granatu na sastajalište mladih poznato kao Kapija.
+
+        Granata je ubila 71 građanina Tuzle, a ranila ih 150. Prosjek starosti poginulih bio je 24 godine."
+
+    },
+    {
+       "ime": "Gradski park",
+       "adresa": "Spomenik Tvrtku I Kotromaniću, Turalibegova, Tuzla 75000, Bosna i Hercegovina",
+       "lng": 44.538146,
+       "ltd": 18.678332,
+       "info": "Gradski park u Tuzli, spomenik Tvrtka I Kotromanica, prvog kralja Srednjovjekovne Bosanske drzave"
+    },
+    {
+        "ime": "Tuzlanska koza",
+        "adresa": "ZAVNOBiH-a 13,Tuzla 75000, Bosna i Hercegovina",
+        "lng": 44.531563,
+        "ltd": 18.687573,
+        "info": "Cijela Tuzla, jednu kozu muzla, pa se hvali da se sirom hrani… Tako počinje legenda o tuzlanskoj kozi, čiji kip je smješten ispred Hotela Tuzla."
+    },
+    {
+    "ime": "Setaliste Slana Banja",
+    "adresa": "Tuzla 75000, Bosna i Hercegovina",
+    "lng": 44.539226,
+    "ltd": 18.687691,
+    "info": "Jedno od omiljenih destinacija Tuzlaka je šetalište Slana banja, nadomak samog centra grada. Smješteno je neposredno iznad Panonskih jezera."
+    },
+
+
+    ],
+
+    "hoteli":[
+       
+       {
+        "ime": "Hotel Mellain",
+        "adresa": "Aleja Alije Izetbegovića 3, Tuzla 75000, Bosna i Hercegovina",
+        "lng": 44.534107,
+        "ltd": 18.687412,
+        "info": "Hotel sa 5 zvjezdica u Tuzli"
+       },
+       {
+        "ime": "Hotel Tuzla",
+        "adresa": "ZAVNOBiH-a 13, Tuzla 75000, Bosna i Hercegovina",
+        "lng": 44.531443,
+        "ltd": 18.688112,
+        "info": "Unikatni hotel koji nosi naziv svoga grada"
+       },
+       {
+        "ime": "Hotel So i Sol",
+        "adresa": "BA, Obala Zmaja od Bosne, Tuzla 75000, Bosna i Hercegovina",
+        "lng": 44.535410,
+        "ltd": 18.677502,
+        "info": "Porodicni hotel u Tuzli"
+       },
+       {
+        "ime": "Apartman Tuzla - Banja",
+        "adresa": "Srpska varoš 5, Tuzla 75000, Bosna i Hercegovina",
+        "lng": 44.538387,
+        "ltd": 18.684379,
+        "info": "Studio apartmani na Panonskom jezeru u Tuzli"
+       }
+    
+
+    ]
+
+
+
+
+}

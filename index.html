@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/leaflet.css" rel="stylesheet">
+    <link href="css/leaflet-routing-machine.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+<body>
+    
+    <div id="container">
+        
+        <div id="mapa_id" class="mapa"></div>
+        <div id="menu">
+            <ul>
+                <li><button type="button" class="button" id="znamenitosti">Znamenitosti</button></li>
+                <li><button type="button" class="button" id="hoteli">Hoteli</button></li>
+                <li><button type="button" class="button" id="restorani">Restorani</button></li>
+                <li><button type="button" class="button" id="kafane">Kafane</button></li>
+                <li><button type="button" class="button" id="parking">Parking</button></li>
+                <li><button type="button" class="button" id="benzinske">Benzinske</button></li>
+            </ul>
+            <button id="go" type="button" disabled>Go</button>
+            
+        </div>
+        <div id="qr_container" hidden>
+            <h5>Scan QR code for directions!</h5>
+            <div id="qrcode" style="width:100px; height:100px; margin-top:15px;"></div>
+        </div>
+    </div>
+
+
+    <script type="text/javascript" src="qrcode.js"></script>
+    <script src="js/jquery-2.2.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/leaflet.js"></script>
+    <script src="js/leaflet-routing-machine.js"></script>
+    <script src="js/distance-util.js"></script>
+    <script src="js/koda.js"></script>
+    <script type="text/javascript" src="qrcode.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
